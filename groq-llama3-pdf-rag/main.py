@@ -129,5 +129,5 @@ if selected == "About":
     with st.expander("Vectorstore Library"):
         st.markdown("This app uses FAISS for AI similarity search and vector storage.")
     with st.expander("Contact"):
-        st.markdown("Contact [Jagdish](mailto:jagdishkumar.kar.min21@itbhu.ac.in) for support.")
+        st.markdown("Contact [Mradul Singh](mailto:mradulsingh524.ms@gmail.com) for support.")
 
